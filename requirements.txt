@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+huggingface-hub
+PyPDF2
+python-docx
+python-dotenv
+faiss-cpu
+sentence-transformers
+transformers
+chroma
+beautifulsoup4
